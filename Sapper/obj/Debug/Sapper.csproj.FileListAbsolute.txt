@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\user\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\user\source\repos\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.MainWindow.resources
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\user\source\repos\Sapper\Sapper\obj\Debug\Sapper.AfterGameWindow.resources
